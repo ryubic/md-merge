@@ -1,0 +1,1 @@
+node "$PSScriptRoot\md-merge.js" @args
